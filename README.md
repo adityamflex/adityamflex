@@ -1,7 +1,5 @@
 # 💫 About Me:
 # 👋 Hi, I'm [ADITYAM KUMAR]  <br><br>👨‍💻 About Me  <br>- 🎓 I m Final-year Computer Science student specialization [AIML].<br>          Passionate about - AI , Machine Learning, and Web Development. <br><br><br><br><br><br><br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adityam-singh-811031338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityamsingh65@gmail.com) 
 
